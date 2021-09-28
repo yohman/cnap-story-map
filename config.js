@@ -269,7 +269,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             description: 'Press play to hear Pete White, co-founder of LA Community Action Network (LA CAN) talk about redevelopment and displacement in residential hotels in downtown Los Angeles.',
-            video: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/614465391&color=%234c5464&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>',
+            video: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1115847592&color=%234c5464&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>',
             location: {
                 center: [-118.27242, 34.00847],
                 zoom: 8.68,
@@ -1002,7 +1002,7 @@ var config = {
             hidden: false,
             subtitle: '<i> Redevelopment',
             description: '<i><small><center> Press play to hear Becky Dennison discuss redevelopment and evictions at the Alexandria Hotel. </center></small></i> <br> The California Redevelopment Agency (CRA) provided a large construction loan to a private developer, the Amerland Group, that was already under fire from housing justice movements for its harassment of tenants at another residential hotel, the Alexandria. The hotel was transformed into the Rossyln Lofts, a “mixed-income” development which presents itself as located in the “heart of historic Downtown Los Angeles.” ',
-            video: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/614465391&color=%234c5464&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>',
+            video: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1117140364&color=%234c5464&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>',
             location: {
                 center: [-118.24728, 34.04775],
                 zoom: 16.75,
