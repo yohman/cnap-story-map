@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/antievictionmap/ckr5hn2up01ry18mv2p69uzd2/draft?fresh=true',
+    style: 'mapbox://styles/antievictionmap/ckr5hn2up01ry18mv2p69uzd2',
     accessToken: 'pk.eyJ1IjoiYW50aWV2aWN0aW9ubWFwIiwiYSI6ImNrazF6dWs2ZzA2OHQyd251eGxoc2IyYzQifQ.lQbeWzEMZhhvSNpsbo34wQ',
     showMarkers: false,
     markerColor: '#3FB1CE',
