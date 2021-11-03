@@ -14,7 +14,7 @@ var config = {
             id: 'intro-a',
             alignment: 'center',
             hidden: false,
-            title: 'Introduction',
+            title: 'Yoh\'s Introduction',
             description: 'The Los Angeles Citywide Nuisance Abatement Program (CNAP) allows the City Attorney to sue the owners of “nuisance” buildings and mandate owners to install surveillance, evict tenants, or even shut down the property. The program binds together housing and policing, often in service of redevelopment and gentrification.',
             location: {
                 center: [-118.27242, 34.00847],
